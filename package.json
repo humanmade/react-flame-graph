@@ -1,5 +1,5 @@
 {
-  "name": "react-flame-graph",
+  "name": "@humanmade/react-flame-graph",
   "version": "1.3.0",
   "description": "React component for visualizing profiling data",
   "author":
